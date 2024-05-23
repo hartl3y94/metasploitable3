@@ -1,4 +1,4 @@
-# Metasploitable3
+# Metasploitable 3
 
 Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. It is intended to be used as a target for testing exploits with [metasploit](https://github.com/rapid7/metasploit-framework).
 
