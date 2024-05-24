@@ -24,7 +24,7 @@ vagrant up
 
 Or clone this repository and build your own box.
 
-## Building Metasploitable 3
+## Building Metasploitable 3:
 System Requirements:
 * OS capable of running all of the required applications listed below
 * VT-x/AMD-V Supported Processor recommended
